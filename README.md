@@ -19,8 +19,8 @@ This repository contains the frontend for our senior team project, MenuLab, a me
 
 MenuLab consists of two repositories:
 
-1. Backend - [menu-ab-api](https://github.com/sfdevshop/menu-ab-api)
-2. Frontend - [menu-ab-web](https://github.com/sfdevshop/menu-ab-web)
+1. Backend - [menu-ab-api](https://github.com/KamiKemiKimi/MenuLabWeb)
+2. Frontend - [menu-ab-web](https://github.com/KamiKemiKimi/MenuLabAPI)
 
 This repository is the frontend. 
 
